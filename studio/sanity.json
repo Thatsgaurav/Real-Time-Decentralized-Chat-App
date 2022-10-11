@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "Real-Time-Decentralized-Chat-App"
-  },
   "api": {
     "projectId": "qgq9wuji",
     "dataset": "production"
+  },
+  "project": {
+    "name": "Real-Time-Decentralized-Chat-App"
   },
   "plugins": [
     "@sanity/base",
